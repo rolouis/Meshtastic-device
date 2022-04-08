@@ -5,7 +5,7 @@
 
 ## This repository contains the device firmware used in the [Meshtastic](https://meshtastic.org) project.
 
-##xx
+##
 
 Update Instructions
 
